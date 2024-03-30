@@ -3,17 +3,17 @@
       {
         "major": 8,
         "version": "1.8.0",
-        "source_url": "https://example.com/openjdk8-source.tar.gz"
+        "source_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_linux_openj9_8u292b10_openj9-0.26.0.tar.gz"
       },
       {
         "major": 11,
         "version": "11.0.0",
-        "source_url": "https://example.com/openjdk11-source.tar.gz"
+        "source_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x64_linux_hotspot_11.0.9.1_1.tar.gz"
       },
       {
         "major": 17,
         "version": "17.0.0",
-        "source_url": "https://example.com/openjdk17-source.tar.gz"
+        "source_url": "https://github.com/AdoptOpenJDK/openjdk17-binaries/releases/download/jdk-2021-05-07-13-31/OpenJDK-jdk_x64_alpine-linux_hotspot_2021-05-06-23-30.tar.gz"
       }
     ]
   }
