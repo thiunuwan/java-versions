@@ -1,0 +1,20 @@
+{
+    "versions": [
+      {
+        "major": 8,
+        "version": "1.8.0",
+        "source_url": "https://example.com/openjdk8-source.tar.gz"
+      },
+      {
+        "major": 11,
+        "version": "11.0.0",
+        "source_url": "https://example.com/openjdk11-source.tar.gz"
+      },
+      {
+        "major": 17,
+        "version": "17.0.0",
+        "source_url": "https://example.com/openjdk17-source.tar.gz"
+      }
+    ]
+  }
+  
