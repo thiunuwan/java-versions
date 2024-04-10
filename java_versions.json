@@ -8,7 +8,7 @@
       {
         "major": 11,
         "version": "11.0.0",
-        "source_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x64_linux_hotspot_11.0.9.1_1.tar.gz"
+        "source_url": "https://choreosharedbuildpack6.blob.core.windows.net/java/jdk-11/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.19_7.tar.gz"
       },
       {
         "major": 17,
